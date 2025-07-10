@@ -1,114 +1,73 @@
-# 🔧 EventHub Kenya — Book Local Freelancers Fast
+# Welcome to your Lovable project
 
-> **Find & book trusted local freelancers** — chefs, tutors, cleaners, fundis, and more — all in one place.
+## Project info
 
-**EventHub Kenya** is a mobile-first web platform built to empower local service providers with visibility, booking tools, and digital payment options. Starting with the hospitality market (chefs, caterers, event planners), the platform is designed to scale across sectors like cleaning, tutoring, plumbing, and beyond.
+**URL**: https://lovable.dev/projects/70f7e64f-cb61-4149-8a26-69da9d0e6e67
 
----
+## How can I edit this code?
 
-## 🚀 Problem We Solve
-> Fundis, cleaners, tutors, and other freelancers often miss out on clients because they lack digital visibility, booking tools, or trusted platforms to showcase their services.
+There are several ways of editing your application.
 
-**EventHub Kenya bridges that gap** by providing a simple, mobile-accessible space where clients can:
-- Browse available service providers nearby
-- Compare specialties
-- Reach out directly via WhatsApp
-- Book & pay with ease
+**Use Lovable**
 
----
+Simply visit the [Lovable Project](https://lovable.dev/projects/70f7e64f-cb61-4149-8a26-69da9d0e6e67) and start prompting.
 
-## 🎯 Core Features
+Changes made via Lovable will be committed automatically to this repo.
 
-- 🔍 Search local vendors and freelancers
-- 📄 View professional profiles with services & specialties
-- 📱 Click-to-book via **WhatsApp** for direct communication
-- 💸 Payments (M-Pesa + card) coming soon
-- 🧾 Vendor dashboard (coming soon)
+**Use your preferred IDE**
 
----
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## 🛠️ Built With
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-| Layer         | Technology                            |
-|--------------|----------------------------------------|
-| Frontend     | [Next.js 14](https://nextjs.org/)      |
-| Styling      | [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/) |
-| Backend API  | Next.js Route Handlers                 |
-| Vendor DB    | [Supabase](https://supabase.com/)      |
-| Messaging    | WhatsApp Web + Meta Cloud API (planned) |
-| Payments     | Stripe + M-Pesa via Flutterwave (planned) |
-| Hosting      | [Vercel](https://vercel.com/)          |
+Follow these steps:
 
----
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## 📦 Getting Started
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-1. **Clone the repo**
-```bash
-git clone https://github.com/yourusername/eventhub-kenya.git
-cd eventhub-kenya
-```
+# Step 3: Install the necessary dependencies.
+npm i
 
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Set up environment**
-```bash
-cp .env.example .env.local
-# Add your Supabase keys to .env.local
-```
-
-4. **Run locally**
-```bash
+# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-# Visit http://localhost:3000
 ```
 
----
+**Edit a file directly in GitHub**
 
-## 🗂️ File Structure
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-```
-├── app/
-│   ├── page.tsx               → Homepage with vendor listing
-│   ├── api/vendors/           → Fake API for demo vendors
-│   ├── vendors/[id]/          → Vendor profile pages
-├── components/ui/             → Buttons, cards
-├── lib/                       → Supabase client setup
-├── public/                    → (Optional) Static assets
-├── .env.example               → Sample config for environment
-└── README.md                  → You're here!
-```
+**Use GitHub Codespaces**
 
----
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## ✅ Roadmap
+## What technologies are used for this project?
 
-- [x] Vendor list and profile pages
-- [x] WhatsApp contact buttons
-- [ ] Vendor signup & auth
-- [ ] M-Pesa & card payments
-- [ ] Admin dashboard for vendors
-- [ ] WhatsApp bot integration (via Twilio / Meta API)
+This project is built with:
 
----
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-## 🤝 Contributing
+## How can I deploy this project?
 
-We welcome collaborators from all backgrounds — especially developers and community leaders in East Africa. Start by forking the repo and sending a PR.
+Simply open [Lovable](https://lovable.dev/projects/70f7e64f-cb61-4149-8a26-69da9d0e6e67) and click on Share -> Publish.
 
----
+## Can I connect a custom domain to my Lovable project?
 
-## 🔒 License
+Yes, you can!
 
-MIT License © 2025 [Your Name]
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
----
-
-## 💬 Why It Matters
-
-> Technology should unlock **dignity and opportunity** — not just convenience.
-
-EventHub Kenya aims to uplift local freelancers — especially youth and women — by making it easier for them to **earn, grow, and be discovered** in a digital-first economy.
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
