@@ -37,6 +37,13 @@ This platform empowers both clients and freelancers — giving professionals mor
 | React Native (optional for mobile app) | MongoDB / PostgreSQL      | Google Maps API (location)   |
 
 > *Stack may change as development progresses.*
+>
+> Sure! Here's a clean and professional sentence you can add to your README:
+
+> 📊 [Click here to view the Pitch Deck](https://docs.google.com/presentation/d/1qZhE9iOU4ZLjPadnNx-lLQwR6iXjZIo6uVno8K13lNo/edit?usp=sharing) — for a detailed overview of the problem, solution, and market strategy.
+
+Let me know if you want a more casual or more technical version!
+
 
 ---
 
