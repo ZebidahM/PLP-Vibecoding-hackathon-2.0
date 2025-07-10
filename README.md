@@ -1,12 +1,12 @@
-# 🎉 Smart Events:Book Trusted Hospitality Professionals Online
+# 🎉 Hostit:Book Trusted Hospitality Professionals Online
 
-**Smart Events** is a mobile-first web platform that connects clients with trusted, verified professionals in the hospitality industry — from event planners and chefs to caterers, ushers, photographers, and more.
+**Hostit** is a mobile-first web platform that connects clients with trusted, verified professionals in the hospitality industry — from event planners and chefs to caterers, ushers, photographers, and more.
 
 ---
 
 ## 🚀 Project Overview
 
-Planning an event should be exciting, not stressful. **Smart Events** simplifies the process by letting users:
+Planning an event should be exciting, not stressful. **Hostit** simplifies the process by letting users:
 
 - 🔍 **Find** experienced service providers near them
 - 📅 **Book** based on real-time availability
