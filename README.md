@@ -1,4 +1,4 @@
-# 🎉 Smart Events — Book Trusted Hospitality Professionals Online
+# 🎉 Smart Events:Book Trusted Hospitality Professionals Online
 
 **Smart Events** is a mobile-first web platform that connects clients with trusted, verified professionals in the hospitality industry — from event planners and chefs to caterers, ushers, photographers, and more.
 
